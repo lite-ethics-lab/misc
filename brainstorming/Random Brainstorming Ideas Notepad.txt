@@ -1,3 +1,4 @@
 Coded Bias
 Need stuff for scientifically backing dirty data
-With bias and dirty data, this leads to poor usablity since things such as data and ai regonizing software may impact different people differently
+With bias and dirty data, this leads to poor usability since things such as data and ai regonizing software may impact different people differently
+markdown files
